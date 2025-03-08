@@ -37,7 +37,6 @@ with open('indian_menu_data_20000.csv', 'w', newline='') as csvfile:
         else:
             item_type = "Veg"
 
-       
         description = random.choice(descriptions).format(item_name)
         price = round(random.uniform(50, 500), 2)
         created_date = random_date(datetime(2023, 1, 1), datetime(2025, 2, 27))
