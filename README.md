@@ -88,7 +88,7 @@ Internship_project/
 
 Access here: [Swiggy_Report_2025.pbix](https://github.com/Falsi3007/Internship_project/blob/main/Swiggy_Report_2025.pbix)
 
-## 📋 Tables and Column Names 🍲
+## 📋 Tables and Column Names 
 
 | Table           | Column Names |
 |----------------|--------------|
