@@ -1,4 +1,4 @@
-# Real-Time Data Pipeline for Restaurant Analytics 🍽️📊
+# Real-Time Data Pipeline for Restaurant Analytics 📊
 
 ## 📌 Overview
 This project showcases the implementation of a real-time data engineering pipeline using modern tools and technologies. The aim is to collect, store, process, and visualize data for restaurant delivery and performance analytics using cloud-native services.
